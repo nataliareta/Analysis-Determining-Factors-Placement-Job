@@ -10,7 +10,7 @@ df['Placement'] = df['Placement'].map({'Yes': 1, 'No': 0})
 # Kolom kategori dikonversi jadi angka
 for col in df.columns:
     if df[col].dtype == 'object':
-        print(f"Kolom {col} masih object, dikonversi otomatis ke numeric.")
+        print(f"Kolom {col} berupa object, dan dikonversi ke numeric")
         df[col] = pd.factorize(df[col])[0]
 
 # Variabel independen & dependen
@@ -41,5 +41,6 @@ result = pd.DataFrame({
     'p_value': model.pvalues.values
 })
 result.to_csv('logistic_result.csv', index=False)
+
 
 print(df.dtypes)
