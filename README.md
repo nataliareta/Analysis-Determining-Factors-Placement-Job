@@ -14,7 +14,7 @@ Features include:
 - Communication Skills  
 - Extra-Curricular Score  
 - Projects Completed
-- 
+  
 You can open my model predicition :
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1X7JwBnRRjDH9y4gjF-1MTR_Q6_44d9On?usp=sharing)
 ---
