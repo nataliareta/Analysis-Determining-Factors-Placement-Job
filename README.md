@@ -1,5 +1,45 @@
-# Analysis-Determining-Factors-Placement-Job-
-This project focuses on analyzing the factors that influence job placement. It also includes a Logistic Regression model that can be tested, developed based on the available dataset.
+# Analysis-Determining-Factors-Placement-Job
 
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/natalia.budiarti/viz/Project1-CollegeCareerFactor/Final?publish=yes)
+An interactive dashboard built to visualize key patterns and trends in the dataset, such as CGPA distribution, internship experience, communication skills, and job placement rate.
+
+##### 🤖 Model Prediction
+A **Binary Logistic Regression** model is trained using the dataset to predict whether a student is likely to get placed based on various academic and personal factors.
+
+Features include:
+- IQ  
+- CGPA
+- Previous Semester Results  
+- Academic Performance  
+- Internship Experience  
+- Communication Skills  
+- Extra-Curricular Score  
+- Projects Completed  
+
+You can open my model prediction :
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1X7JwBnRRjDH9y4gjF-1MTR_Q6_44d9On?usp=sharing)
+---
+
+##### 📈 Data Analysis
+Comprehensive data cleaning, preprocessing, and feature analysis were performed to identify significant factors that impact job placement results.
+
+- Checked data distribution and missing values  
+- Identified correlation between features  
+- Visualized insights for better understanding  
+
+You can see my dashboard : 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/natalia.budiarti/viz/Project1-CollegeCareerFactor/Final?publish=yes)
+
+##### 🧠 Key Insights
+- Higher **CGPA** and **internship experience** significantly improve placement chances.  
+- Students with better **communication skills** and **academic consistency** tend to perform better.  
+- The model achieved **X% accuracy** on test data. *(replace with your result)*  
+
+---
+
+##### 🧰 Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- Tableau
+- Google Colab  
+- GitHub  
+
+📬 Let’s connect: [LinkedIn](#) | [GitHub](#)
