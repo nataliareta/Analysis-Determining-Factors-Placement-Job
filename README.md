@@ -45,4 +45,6 @@ You can see my dashboard :
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Tableau
 - Google Colab  
-- GitHub  
+- GitHub
+
+Data Source : https://www.kaggle.com/datasets/emanfatima2025/college-placement-analysis (Kaggle)
